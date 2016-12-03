@@ -1,0 +1,3 @@
+/home/cclin/mycode/opencv/project_test/CMakeFiles/edit_cache.dir
+/home/cclin/mycode/opencv/project_test/CMakeFiles/rebuild_cache.dir
+/home/cclin/mycode/opencv/project_test/CMakeFiles/pvd.dir
